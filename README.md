@@ -1,1 +1,2 @@
 # oop
+nowy wpis
